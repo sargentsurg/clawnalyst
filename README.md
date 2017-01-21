@@ -9,4 +9,4 @@ The only thing you'll have to change is your WarcraftLogs API key in apireader.j
 
 
 
-# PROJECT 100% Forked from http://clawnalyst.nimos.ws/ please contribute and support the original project.
+### PROJECT 100% Forked from http://clawnalyst.nimos.ws/ please contribute and support the original project.
